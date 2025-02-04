@@ -19,6 +19,12 @@ PCOS is a hormonal disorder causing enlarged ovaries with small cysts. Symptoms 
   - **Lifestyle Factors:** Diet, exercise, and sleep habits
   - **Health Metrics:** BMI, mental health status, family history
 
+## 🛠️ Tools & Technologies Used
+- Python (Pandas, NumPy, Seaborn, Matplotlib)
+- Jupyter Notebook for analysis
+- Feature Engineering & Normalization
+- Cramér’s V for correlation analysis    
+
 ## 🔬 Methodology
 ### 1️⃣ Data Preprocessing
 - Label encoding categorical values
